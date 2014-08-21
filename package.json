@@ -1,0 +1,15 @@
+{
+    "name": "elliptical-redis",
+    "description": "Elliptical Redis Store Provider",
+    "version": "1.0.0",
+    "author": "S. Francis",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tachyon1337/elliptical-redis.git"
+    },
+    "dependencies": {
+        "redis": "0.10.3",
+        "connect-redis":"1.4.7"
+    }
+}
